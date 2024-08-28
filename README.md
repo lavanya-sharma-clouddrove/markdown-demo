@@ -46,3 +46,17 @@ hello_world()
 2. Add and commit the file to your repository:
 
 ```bash
+
+5. **Save the page** by clicking **"Save Page"**.
+
+#### 6. Check Your Repository
+
+- Visit your repository on GitHub.
+- You should see your `README.md` file rendered on the main page.
+- Go to the **Wiki** tab to view the created Wiki page.
+
+### Summary of What We Did
+
+1. Created a new GitHub repository.
+2. Created a `README.md` file with various Markdown elements: images, links, code blocks, headers, lists, and blockquotes.
+
